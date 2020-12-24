@@ -12,3 +12,7 @@
 ![Django](https://img.shields.io/badge/-Django-090909?style=for-the-badge&logo=Django&logoColor=57C307)
 ![Solidity](https://img.shields.io/badge/-Solidity-090909?style=for-the-badge&logo=Solidity&logoColor=57C307)
 
+
+### Habr.com
+https://habr.com/ru/users/moderntoking/posts/
+
