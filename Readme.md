@@ -11,7 +11,7 @@
 ![Flask](https://img.shields.io/badge/-Flask-090909?style=for-the-badge&logo=Flask&logoColor=C5C9C2)
 ![Django](https://img.shields.io/badge/-Django-090909?style=for-the-badge&logo=Django&logoColor=57C307)
 ![Solidity](https://img.shields.io/badge/-Solidity-090909?style=for-the-badge&logo=Solidity&logoColor=57C307)
-![Flutter](https://img.shields.io/badge/Flutter-090909?style=for-the-badge&logo=Flutter&logoColor=FFD300)
+![Flutter](https://img.shields.io/badge/Flutter-090909?style=for-the-badge&logo=Flutter&logoColor=0000FF)
 
 
 
